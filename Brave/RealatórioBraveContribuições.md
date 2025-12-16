@@ -18,6 +18,8 @@
 
 - Ferramenta de Texto para Voz em português ([Brave Voice Brasil](https://github.com/jorgelucasp42/brave-voice-brasil)).
 
+![Screenshot do bug no Brave](assets/extensao-brave-jorge.png)
+
 ## Produção de Conteúdo Audiovisual ou Série de Posts
 
 - Vídeo Tutorial de Como Instalar o navegador em dispositivos Linux e configurar Bloqueador de anúncios. ([Vídeo](https://youtu.be/x1dNnURlIgY))
