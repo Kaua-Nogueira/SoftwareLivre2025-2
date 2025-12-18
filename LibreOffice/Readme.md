@@ -5,9 +5,9 @@
 - **Nível:** Graduação
 - 
 ## Contribuições
-- 1 Reportar Bug
+- 1 
 - 2 
-- 3 
+- 3 Reportar Bug
 - 4 
 - 
 ## Reportar Bug
